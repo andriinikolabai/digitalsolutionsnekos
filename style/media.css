@@ -983,6 +983,16 @@
     .hero__section{
         padding: 210px 0 0;
     }
+
+    .about__image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .service__information img {
+        width: 100%;
+        height: 100%;
+    }
 }
 
 @media (max-width: 376px) {
@@ -1111,7 +1121,8 @@
     }
 
     .about__image img {
-        width: 340px;
+        width: 100%;
+        height: 100%;
     }
 
     .about__info {
@@ -1187,7 +1198,8 @@
     }
 
     .service__information img {
-        width: 340px;
+        width: 100%;
+        height: 100%;
     }
 
     .service__information {
